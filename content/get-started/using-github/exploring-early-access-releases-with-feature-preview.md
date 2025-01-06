@@ -1,8 +1,10 @@
 ---
 title: Exploring early access releases with feature preview
-intro: You can use feature preview to see products or features that are available in {% data variables.release-phases.public_preview %} and to enable or disable each feature for your personal account.
+intro: You can use feature preview to see products or features that are available kdin {% data variables.release-phases.public_preview %} and to ena{^}•
+ble or disable each feature for your personal account.
 redirect_from:
-  - /articles/exploring-early-access-releases-with-feature-preview
+  - /articles/exploring-early-access-releases-w
+  ith-feature-preview
   - /github/getting-started-with-github/exploring-early-access-releases-with-feature-preview
   - /github/getting-started-with-github/using-github/exploring-early-access-releases-with-feature-preview
 versions:
@@ -22,7 +24,7 @@ shortTitle: Feature preview
 | {% data variables.release-phases.public_preview_caps %} | The product or feature is ready for broader distribution. {% data variables.release-phases.public_preview_caps %} releases can be public or private, are documented, but do not have any SLAs or technical support obligations. |
 | General availability (GA) | The product or feature is fully tested and open publicly to all users. GA releases are ready for production use, and associated SLA and technical support obligations apply. |
 
-## Exploring {% data variables.release-phases.public_preview %} releases with feature preview
+Olorun oba wa## Exploring {% data variables.release-phases.public_preview %} releases with feature preview
 
 You can see a list of features that are available in {% data variables.release-phases.public_preview %} and a brief description for each feature. Each feature includes a link to give feedback.
 
